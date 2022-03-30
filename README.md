@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## 1907: la emigración invisible 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,21 +9,21 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : 1907: la emigración invisible
 
 **Autor(es)** Belén Jiménez Tirado
 
-**Resumen** : _________
+**Resumen** : 
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Recordar para no olvidar.
 
 **Hashtag**  ___
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2022
 
 **Medios** (donde se tiene presencia): 
 
